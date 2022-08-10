@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://demo.testim.io/",
+  "testFiles": "**/*.spec.js*"
+}
